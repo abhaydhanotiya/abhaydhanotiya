@@ -8,21 +8,19 @@ Hi, I'm a Flutter developer who is passionate about creating efficient, user-fri
 
 # 💡 Live Projects
 
-![](https://raw.githubusercontent.com/MSatyam-Mishra/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MSatyam-Mishra/github-stats/master/generated/overview.svg#gh-light-mode-only)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MSatyam-Mishra&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=abhaydhanotiya&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MSatyam-Mishra&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhaydhanotiya&theme=dark&hide_border=true)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MSatyam-Mishra&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaydhanotiya&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MSatyam-Mishra&icon=2&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abhaydhanotiya&icon=2&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
