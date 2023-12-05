@@ -9,7 +9,7 @@ Hi, I'm a Flutter developer who is passionate about creating efficient, user-fri
 # 💡 Live Projects
 [![Leaf Flow Logo](https://github.com/abhaydhanotiya/Leaf_flow-News-App-/blob/main/assets/Images/logo.png?raw=true)](https://github.com/abhaydhanotiya/Leaf_flow-News-App-/releases/download/News/app-release.apk)
 
-[![Netflix Retro](https://github.com/abhaydhanotiya/retro_netflix/blob/main/assets/Images/logo.png?raw=true?height=20px)](https://github.com/abhaydhanotiya/retro_netflix/releases/download/MoviesApp/app-release.apk)
+[![Netflix Retro](https://github.com/abhaydhanotiya/retro_netflix/blob/main/assets/Images/logo.png?raw=true)](https://github.com/abhaydhanotiya/retro_netflix/releases/download/MoviesApp/app-release.apk)
 
 
 # 📊 GitHub Stats:
